@@ -1,0 +1,6 @@
+C:\Projects\cs397\Project5\Part1\bin\Part1.dll.config
+C:\Projects\cs397\Project5\Part1\bin\Part1.dll
+C:\Projects\cs397\Project5\Part1\bin\Part1.pdb
+C:\Projects\cs397\Project5\Part1\obj\Debug\Part1.csprojResolveAssemblyReference.cache
+C:\Projects\cs397\Project5\Part1\obj\Debug\Part1.dll
+C:\Projects\cs397\Project5\Part1\obj\Debug\Part1.pdb

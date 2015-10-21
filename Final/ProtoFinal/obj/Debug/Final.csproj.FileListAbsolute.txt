@@ -1,0 +1,12 @@
+C:\Projects\cs397\ProtoFinal\ProtoFinal\bin\ProtoFinal.dll.config
+C:\Projects\cs397\ProtoFinal\ProtoFinal\bin\ProtoFinal.dll
+C:\Projects\cs397\ProtoFinal\ProtoFinal\bin\ProtoFinal.pdb
+C:\Projects\cs397\ProtoFinal\ProtoFinal\obj\Debug\Final.csprojResolveAssemblyReference.cache
+C:\Projects\cs397\ProtoFinal\ProtoFinal\obj\Debug\ProtoFinal.dll
+C:\Projects\cs397\ProtoFinal\ProtoFinal\obj\Debug\ProtoFinal.pdb
+C:\Projects\cs397\Final\ProtoFinal\bin\ProtoFinal.dll.config
+C:\Projects\cs397\Final\ProtoFinal\bin\ProtoFinal.dll
+C:\Projects\cs397\Final\ProtoFinal\bin\ProtoFinal.pdb
+C:\Projects\cs397\Final\ProtoFinal\obj\Debug\Final.csprojResolveAssemblyReference.cache
+C:\Projects\cs397\Final\ProtoFinal\obj\Debug\ProtoFinal.dll
+C:\Projects\cs397\Final\ProtoFinal\obj\Debug\ProtoFinal.pdb
